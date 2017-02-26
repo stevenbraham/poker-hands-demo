@@ -1,0 +1,1 @@
+This is a build of my [Poker hands application](https://github.com/stevenbraham/poker-hands/). I choose for a separate repo for the github site, because I don't want to pollute the main repo with builds.
